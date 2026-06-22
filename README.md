@@ -1,2 +1,21 @@
-# Social-Media-Database-Project
-A relational database project simulating a social media platform (users, tweets, and followers) using SQL.
+# Database & SQL Professional Certifications
+
+A repository dedicated to showcasing my professional certifications in Database Management and Structured Query Language (SQL) earned through Tuwaiq Academy and the Satr Platform.
+
+## 🎓 Certifications Overview
+
+I have successfully completed the structured SQL track, mastering database design, querying, and advanced database management concepts:
+
+* **SQL 101:** Fundamentals of Relational Databases, understanding tables, data types, and basic querying techniques.
+* **SQL 102:** Intermediate database operations, focusing on data manipulation (DML), filtering, sorting, and aggregate functions.
+* **SQL 103:** Advanced SQL concepts, including multi-table joins, subqueries, database constraints, and schema design.
+
+## 🛠️ Skills Acquired
+* Relational Database Management Systems (RDBMS)
+* Data Definition Language (DDL) & Data Manipulation Language (DML)
+* Writing Complex Queries & Subqueries
+* Database Normalization & Relationship Design (1:1, 1:M, M:N)
+
+## 🏢 Issuing Authorities
+* **Tuwaiq Academy**
+* **Satr Platform**
