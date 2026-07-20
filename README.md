@@ -19,3 +19,9 @@ I have successfully completed the structured SQL track, mastering database desig
 ## 🏢 Issuing Authorities
 * **Tuwaiq Academy**
 * **Satr Platform**
+---
+
+## 🏆 Firebase Certification
+Successfully completed the **Firebase Basics** course provided by **Satr Platform** & **Tuwaiq Academy**, covering Cloud Databases, Authentication, Storage, Firestore, and Realtime Database.
+
+📄 **[View Firebase Certificate PDF](./Firebase%20%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA%20(1).pdf)**
